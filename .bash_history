@@ -88,3 +88,38 @@ ls -l
 /walmart
 pwd
 /home/ec2-user/walmart
+cd ~/desktop
+pwd
+cd ~/Desktop
+cd ~/desktop/
+cat walmart
+pwd
+ls -l
+sudo su walmart
+ls /home/ec2-user
+cd
+pwd
+cd --
+pwd
+whatis cd--
+whatis cd
+cd
+git init
+vi DBUtils.java
+git status
+vi stringutils.java
+git status
+git add DBUtils.java
+git status
+git add.
+git add*
+git status
+git add*.java
+git add.
+git add .
+git status
+git commit -m "initial commit"
+git config --global user.name "bharath-123456"
+git config --global "kongi.manohar@gmail.com"
+git config --global --list
+exit
