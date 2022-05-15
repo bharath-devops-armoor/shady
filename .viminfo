@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1652582930,,"wq"
+|2,0,1652623333,,"wq"
 :q
 |2,0,1652056929,,"q"
 
@@ -27,34 +27,50 @@
 # Registers:
 
 # File marks:
-'0  1  41  ~/deploy.sh
-|4,48,1,41,1652582930,"~/deploy.sh"
-'1  1  22  ~/rev/python.sh
-|4,49,1,22,1652531458,"~/rev/python.sh"
-'2  1  23  ~/rev/test.sh
-|4,50,1,23,1652531435,"~/rev/test.sh"
-'3  1  23  ~/rev/test.py
-|4,51,1,23,1652530831,"~/rev/test.py"
-'4  1  33  ~/rev/test.sh
-|4,52,1,33,1652530812,"~/rev/test.sh"
-'5  1  33  ~/rev/smile.java
-|4,53,1,33,1652529148,"~/rev/smile.java"
-'6  1  36  ~/development
-|4,54,1,36,1652233964,"~/development"
-'7  1  41  ~/stringutils.java
-|4,55,1,41,1652195448,"~/stringutils.java"
-'8  1  3  ~/DBUtils.java
-|4,56,1,3,1652195361,"~/DBUtils.java"
-'9  6  9  ~/while.sh
-|4,57,6,9,1652056929,"~/while.sh"
+'0  1  36  ~/stan.py
+|4,48,1,36,1652623333,"~/stan.py"
+'1  1  41  ~/deploy.sh
+|4,49,1,41,1652582930,"~/deploy.sh"
+'2  1  22  ~/rev/python.sh
+|4,50,1,22,1652531458,"~/rev/python.sh"
+'3  1  23  ~/rev/test.sh
+|4,51,1,23,1652531435,"~/rev/test.sh"
+'4  1  23  ~/rev/test.py
+|4,52,1,23,1652530831,"~/rev/test.py"
+'5  1  33  ~/rev/test.sh
+|4,53,1,33,1652530812,"~/rev/test.sh"
+'6  1  33  ~/rev/smile.java
+|4,54,1,33,1652529148,"~/rev/smile.java"
+'7  1  36  ~/development
+|4,55,1,36,1652233964,"~/development"
+'8  1  41  ~/stringutils.java
+|4,56,1,41,1652195448,"~/stringutils.java"
+'9  1  3  ~/DBUtils.java
+|4,57,1,3,1652195361,"~/DBUtils.java"
 
 # Jumplist (newest first):
+-'  1  36  ~/stan.py
+|4,39,1,36,1652623333,"~/stan.py"
+-'  1  41  ~/deploy.sh
+|4,39,1,41,1652582930,"~/deploy.sh"
 -'  1  41  ~/deploy.sh
 |4,39,1,41,1652582930,"~/deploy.sh"
 -'  1  22  ~/rev/python.sh
 |4,39,1,22,1652531458,"~/rev/python.sh"
 -'  1  22  ~/rev/python.sh
 |4,39,1,22,1652531458,"~/rev/python.sh"
+-'  1  22  ~/rev/python.sh
+|4,39,1,22,1652531458,"~/rev/python.sh"
+-'  1  22  ~/rev/python.sh
+|4,39,1,22,1652531458,"~/rev/python.sh"
+-'  1  23  ~/rev/test.sh
+|4,39,1,23,1652531435,"~/rev/test.sh"
+-'  1  23  ~/rev/test.sh
+|4,39,1,23,1652531435,"~/rev/test.sh"
+-'  1  23  ~/rev/test.sh
+|4,39,1,23,1652531435,"~/rev/test.sh"
+-'  1  23  ~/rev/test.sh
+|4,39,1,23,1652531435,"~/rev/test.sh"
 -'  1  23  ~/rev/test.sh
 |4,39,1,23,1652531435,"~/rev/test.sh"
 -'  1  23  ~/rev/test.sh
@@ -79,6 +95,38 @@
 |4,39,1,23,1652530831,"~/rev/test.py"
 -'  1  23  ~/rev/test.py
 |4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  23  ~/rev/test.py
+|4,39,1,23,1652530831,"~/rev/test.py"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
+-'  1  33  ~/rev/test.sh
+|4,39,1,33,1652530812,"~/rev/test.sh"
 -'  1  33  ~/rev/test.sh
 |4,39,1,33,1652530812,"~/rev/test.sh"
 -'  1  33  ~/rev/test.sh
@@ -159,98 +207,57 @@
 |4,39,1,33,1652529148,"~/rev/smile.java"
 -'  1  33  ~/rev/smile.java
 |4,39,1,33,1652529148,"~/rev/smile.java"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
--'  1  36  ~/development
-|4,39,1,36,1652233964,"~/development"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
+-'  1  33  ~/rev/smile.java
+|4,39,1,33,1652529148,"~/rev/smile.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/stan.py
+	*	1652623331	0
+	"	1	36
+	^	1	37
+	.	1	36
+	+	1	36
 
 > ~/deploy.sh
 	*	1652582927	0
